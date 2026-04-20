@@ -1,0 +1,6 @@
+# Power BI cache
+*.pbix.tmp
+
+# OS
+.DS_Store
+Thumbs.db
