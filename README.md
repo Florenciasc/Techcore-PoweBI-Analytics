@@ -86,7 +86,7 @@ Se diseñó un modelo relacional tipo **estrella (Star Schema)**.
 ## 🖼️ Dashboard
 
 ### KPIs Globales
-![KPIs](images/kpis.png)
+![KPIs](images/KPI.png)
 
 ### Ventas
 ![Ventas](images/ventas.png)
